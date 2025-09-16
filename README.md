@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RestroSync
 
 Functionalities
@@ -31,5 +30,3 @@ Admin Features:
         Admins can generate itemized invoices for orders, including taxes and service fees.
         The invoice is stored in the system and can be printed or emailed to customers.
 =======
-# RestroBliss
->>>>>>> 9f13dbfd2b6636b40468b411739af72e70d280a0
